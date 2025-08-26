@@ -19,9 +19,6 @@
    
 
 2. **CryptoViz** — Flux temps réel crypto (microservices + RabbitMQ + MySQL + Grafana)  
-  
-
-3. **SLA Platform – Data** — Tableaux de bord, métriques, alerting  
    
 
 ---
