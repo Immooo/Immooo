@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Title -->
+<h1 align="center">WELCOME TO MY GITHUB</h1>
 
-<!--
-**Immooo/Immooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Big+Data+%7C+Machine+Learning;Epitech+Nice+%E2%80%94+Bac%2B5;Transforming+data+into+insights" />
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Étudiant **Bac+5 Epitech Nice** — spécialisation **Big Data & IA**
+- Passionné par la **collecte → traitement → analyse → visualisation** de données
+- Objectif : **insights actionnables** & **modèles ML** utiles aux métiers
+- GitHub principal : **[Immooo](https://github.com/Immooo)**
+
+## Mes Projets (sélection)
+
+1. **HomePedia** — Analyse du marché immobilier 🇫🇷  
+   Pipeline ETL (Scraper → MongoDB → RabbitMQ → SQLite) + Streamlit/Metabase
+   
+
+2. **CryptoViz** — Flux temps réel crypto (microservices + RabbitMQ + MySQL + Grafana)  
+  
+
+3. **SLA Platform – Data** — Tableaux de bord, métriques, alerting  
+   
+
+---
+
+## Tech Stack
+
+**Langages & Data :** Python · SQL · Pandas · NumPy · PySpark  
+**ML :** scikit-learn (prépa de données, modèles de base, évaluation)  
+**Pipelines :** ETL · MongoDB · RabbitMQ · SQLite  
+**Viz :** Matplotlib · Streamlit · Metabase · Grafana
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <!-- Stats globales -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Immooo&show_icons=true&hide_border=true&count_private=true" />
+  <!-- Langages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immooo&layout=compact&hide_border=true" />
+</p>
+
+
+---
+
+## Contact
+
+- LinkedIn : *https://www.linkedin.com/in/adrien-troise/*  
+- Email : *troise.adrien.pro@gmail.com*
+
+<!-- Compteur de visites -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Immooo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+> “Data beats opinion.”
