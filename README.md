@@ -46,13 +46,6 @@
 
 ## GitHub Stats
 
-<p align="left">
-  <!-- Stats globales -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Immooo&show_icons=true&hide_border=true&count_private=true" />
-  <!-- Langages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immooo&layout=compact&hide_border=true" />
-</p>
-
 <!-- Streak -->
 <p align="left">
   <img
