@@ -1,42 +1,113 @@
-<!-- Title -->
-<h1 align="center">WELCOME TO MY GITHUB</h1>
+<h1 align="center">BIENVENUE SUR MON GITHUB 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Big+Data+%7C+Machine+Learning;Epitech+Nice+%E2%80%94+Bac%2B5;Transforming+data+into+insights" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=Big+Data+%7C+Intelligence+Artificielle+%7C+Data+Engineering;Bac%2B5+IA+%26+Big+Data+%E2%80%94+EPITECH+Nice;Python+%7C+Machine+Learning+%7C+LLM+%7C+Data;De+la+donn%C3%A9e+brute+%C3%A0+la+solution+intelligente"
+    alt="Typing SVG"
+  />
 </p>
-
-## About Me
-
-- Étudiant **Bac+5 Epitech Nice** — spécialisation **Big Data & IA**
-- Passionné par la **collecte → traitement → analyse → visualisation** de données
-- Objectif : **insights actionnables** & **modèles ML** utiles aux métiers
-- GitHub principal : **[Immooo](https://github.com/Immooo)**
-
-## Mes Projets (sélection)
-
-1. **HomePedia** — Analyse du marché immobilier 🇫🇷  
-   Pipeline ETL (Scraper → MongoDB → RabbitMQ → SQLite) + Streamlit/Metabase
-   
-
-2. **CryptoViz** — Flux temps réel crypto (microservices + RabbitMQ + MySQL + Grafana)  
-   
 
 ---
 
-## Tech Stack
+## 👨‍💻 À propos de moi
 
-**Langages & Data :** Python · SQL · Pandas · NumPy · PySpark  
-**ML :** scikit-learn (prépa de données, modèles de base, évaluation)  
-**Pipelines :** ETL · MongoDB · RabbitMQ · SQLite  
-**Viz :** Matplotlib · Streamlit · Metabase · Grafana
+* 🎓 En fin de cursus **Bac+5 à EPITECH Nice**, spécialisé en **Intelligence Artificielle & Big Data**
+* 🎯 Diplôme prévu en **octobre 2026**
+* 💼 En fin d'alternance sur des projets orientés **Data, IA et R&D**
+* 🧠 Intéressé par le **Data Engineering, le Machine Learning, les LLM et l'exploitation intelligente des données**
+* ⚙️ Conception de pipelines : **collecte → traitement → stockage → analyse → IA → visualisation**
+* 🚀 Ouvert aux opportunités en **Big Data, Data Engineering et Intelligence Artificielle**
+
+---
+
+## 🚀 Projets
+
+### 🧠 ADIM — Analyse intelligente de compétences
+
+Pipeline d'analyse et d'enrichissement de compétences professionnelles à partir de CV et de données structurées.
+
+* Extraction et normalisation de compétences
+* Vérification via un **Knowledge Graph**
+* Enrichissement et recommandation via **LLM**
+* Classification, scoring et mise en cache des résultats
+
+**Stack :**
+`Python` · `LLM` · `MongoDB` · `PostgreSQL` · `Apache Jena Fuseki` · `RDF` · `SPARQL`
+
+---
+
+### 🏠 HomePedia — Analyse du marché immobilier 🇫🇷
+
+Plateforme Data permettant de collecter, traiter, stocker et explorer des données immobilières.
+
+* Collecte et transformation de données
+* Stockage NoSQL
+* Analyse et exploration des données
+* Dashboards et visualisations interactives
+
+**Stack :**
+`Python` · `Pandas` · `MongoDB` · `Streamlit` · `Metabase`
+
+---
+
+### 📈 CryptoViz — Données crypto en temps réel
+
+Architecture orientée microservices pour la collecte, le traitement et la visualisation de données de cryptomonnaies en temps réel.
+
+* Collecte via API
+* Transmission asynchrone des données
+* Traitement et stockage
+* Visualisation temps réel
+
+**Stack :**
+`Python` · `RabbitMQ` · `MySQL` · `Grafana`
+
+---
+
+## 🛠️ Stack technique
+
+### Langages & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+</p>
+
+### Intelligence Artificielle
+
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E" />
+  <img src="https://img.shields.io/badge/LLM-412991" />
+  <img src="https://img.shields.io/badge/NLP-5A29E4" />
+</p>
+
+### Big Data & Data Engineering
+
+<p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-02569B" />
+</p>
+
+### Bases de données
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+</p>
+
+### Knowledge Graph & Visualisation
+
+<p>
+  <img src="https://img.shields.io/badge/RDF-005A9C" />
+  <img src="https://img.shields.io/badge/SPARQL-0C479D" />
+  <img src="https://img.shields.io/badge/Apache%20Jena-F37626" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
@@ -44,40 +115,54 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub
 
-<!-- Streak -->
-<p align="left">
+<p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Immooo&theme=white&hide_border=false"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Immooo&theme=default"
+    alt="Statistiques GitHub"
+    width="350"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Immooo&theme=default"
+    alt="Langages principaux"
+    width="350"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Immooo&locale=fr&hide_border=true"
     alt="GitHub Streak"
-    height="165"
+    width="500"
   />
 </p>
 
 ---
 
-## Contact
+## 📫 Contact
 
-- LinkedIn : *https://www.linkedin.com/in/adrien-troise/*  
-- Email : *troise.adrien.pro@gmail.com*
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrien-troise/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adrien%20Troise-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
 
-<!-- Compteur de visites -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Immooo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:troise.adrien.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Immooo">
+    <img src="https://img.shields.io/badge/GitHub-Immooo-181717?logo=github&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Immooo&label=Vues+du+profil&color=0e75b6&style=flat"
+    alt="Vues du profil"
+  />
+</p>
 
-> “Data beats opinion.”
-
-## Support
-
-<p align="left">
-  <a href="https://buymeacoffee.com/adrien.trs" rel="nofollow noopener" target="_blank">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      alt="Buy Me A Coffee"
-      height="50"
-    />
-  </a>
+<p align="center">
+  <i>« De la donnée brute à la décision intelligente. »</i>
 </p>
