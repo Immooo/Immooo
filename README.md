@@ -22,6 +22,30 @@
 
 ## 🚀 Projets
 
+### 📄 CV2DC — Traitement intelligent de CV & dossiers de compétences
+
+Plateforme de traitement automatisé de CV permettant de transformer des documents **PDF, images ou DOCX** en profils structurés et dossiers de compétences.
+
+L'application repose sur une architecture microservices conteneurisée et combine traitement documentaire, Intelligence Artificielle et gestion de données.
+
+* Extraction de texte via **OCR / Tesseract**
+* Anonymisation des données via **NER** et expressions régulières
+* Structuration des profils à l'aide de modèles d'IA
+* Synchronisation incrémentale des candidats avec **BoondManager**
+* Détection des documents modifiés via dates, hashes et snapshots
+* Normalisation et validation des compétences via **Knowledge Graph**
+* Gestion et enrichissement des compétences non référencées
+* Suggestions de catégories et relations entre compétences via **LLM**
+* Recherche avancée et expansion sémantique des profils
+* Stockage, indexation et recherche dans **MongoDB**
+* Génération automatique de CV et dossiers de compétences au format **DOCX**
+* Optimisation des performances via cache, pré-calculs et invalidation des données obsolètes
+
+**Stack :**
+`Python` · `FastAPI` · `Docker` · `RabbitMQ` · `MongoDB` · `LLM` · `NLP` · `NER` · `OCR` · `SPARQL` · `Apache Jena Fuseki` · `RDF`
+
+---
+
 ### 🧠 ADIM — Analyse intelligente de compétences
 
 Pipeline d'analyse et d'enrichissement de compétences professionnelles à partir de CV et de données structurées.
@@ -82,6 +106,8 @@ Architecture orientée microservices pour la collecte, le traitement et la visua
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E" />
   <img src="https://img.shields.io/badge/LLM-412991" />
   <img src="https://img.shields.io/badge/NLP-5A29E4" />
+  <img src="https://img.shields.io/badge/NER-6A5ACD" />
+  <img src="https://img.shields.io/badge/OCR-Tesseract-4285F4" />
 </p>
 
 ### Big Data & Data Engineering
@@ -91,6 +117,16 @@ Architecture orientée microservices pour la collecte, le traitement et la visua
   <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL-02569B" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-0052CC" />
+</p>
+
+### Backend & Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-326CE5" />
 </p>
 
 ### Bases de données
